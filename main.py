@@ -4,4 +4,5 @@ print(message)
 for word in message:
     print(word)
 
-# zmiany z gałęźi 'nazwa'
+# zmiany z gałęzi 'nazwa'
+# zmiany z gałęzi 'inny'
