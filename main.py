@@ -3,3 +3,5 @@ print(message)
 
 for word in message:
     print(word)
+
+# zmiany z gałęźi 'nazwa'
