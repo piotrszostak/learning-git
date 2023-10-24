@@ -1,1 +1,2 @@
-print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona!")
+message = "'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona!"
+print(message)
